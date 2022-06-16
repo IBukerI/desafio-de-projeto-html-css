@@ -300,7 +300,8 @@ a:hover {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: linear-gradient(-45deg, #f30606, #070707, #df3232, #fa0a0a);
+	background: linear-gradient(-45deg, #f30606, #070707, #fa0a0a);
+	
 }
 
 
